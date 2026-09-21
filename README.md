@@ -5,7 +5,7 @@ Practical assignments from my B.Sc. (Physical Science with Computer Science) cou
 ## Notebooks
 | Notebook | Topic | Libraries |
 |---|---|---|
-| practial(1) (2).ipynb | NumPy arrays (arange, reshape) and statistics | NumPy, SciPy |
+| practial(1).ipynb | NumPy arrays (arange, reshape) and statistics | NumPy, SciPy |
 | practical2.ipynb | Penguins dataset: shape, data types, head/tail, iloc indexing, summary statistics | Pandas, Seaborn |
 | practical3.ipynb | Titanic dataset: removing duplicates, filling missing ages with the median, filtering, groupby, new "Family Size" column | Pandas, NumPy, Seaborn |
 | practical4.ipynb | Iris dataset: scatter plots and histograms | Matplotlib, Seaborn |
